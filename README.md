@@ -18,12 +18,15 @@ Showcase complex SQL operations such as joins, aggregations, subqueries, and win
 
 The project is based on a sample Music Store Database, which includes multiple tables such as:
 
-Table Name	Description
-customers	Customer details including name, country, and contact info
-invoices	Records of all customer transactions
-invoice_items	Line items for each invoice (tracks sold, quantity, and price)
-tracks	Information about individual tracks
-albums	Album details including artist and title
-artists	Artist information
-genres	Music genres classification
-employees	Sales representatives’ details
+
+| Table Name      | Description                                                    |
+| --------------- | -------------------------------------------------------------- |
+| `customers`     | Customer details including name, country, and contact info     |
+| `invoices`      | Records of all customer transactions                           |
+| `invoice_items` | Line items for each invoice (tracks sold, quantity, and price) |
+| `tracks`        | Information about individual tracks                            |
+| `albums`        | Album details including artist and title                       |
+| `artists`       | Artist information                                             |
+| `genres`        | Music genres classification                                    |
+| `employees`     | Sales representatives’ details                                 |
+
